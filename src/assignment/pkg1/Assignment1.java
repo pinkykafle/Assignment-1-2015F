@@ -40,9 +40,9 @@ public class Assignment1 {
          * 
          * Salary:-
          * 
-         * Toronto - 
-         * Vancouver - 
-         * Waterloo - 
+         * Toronto - $75000 annual
+         * Vancouver - $84000 annual
+         * Waterloo - $62000 annual
          */
          
          
